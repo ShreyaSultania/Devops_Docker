@@ -1,0 +1,7 @@
+exp2_secure_build_context_management.md
+.env
+credentials.txt
+.git
+.gitignore
+__pycache__
+*.pyc
