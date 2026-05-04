@@ -1,0 +1,1 @@
+print("Helloo from optimized Docker app")

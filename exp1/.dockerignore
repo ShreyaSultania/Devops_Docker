@@ -1,0 +1,9 @@
+exp1_image_layer_optimization_startup.md
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+Dockerfile.bad
+README.md
